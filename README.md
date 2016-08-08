@@ -1,4 +1,4 @@
 # hello-world
 Hello World!
 
-An example
+I'm Lauren and I'm new to GitHub
